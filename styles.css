@@ -31,6 +31,10 @@ body {
 
 .td_image_width {
     width: 570px;
+}
+
+.td_image_width img {
+    display: block;
     height: 400px;
 }
 
